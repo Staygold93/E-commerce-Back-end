@@ -14,7 +14,12 @@
  * Javascript
  * insomnia
 
+## Usage 
+* npm start 
+
 
 ## Screenshots 
 
 ![image](https://user-images.githubusercontent.com/112224915/215386326-80c74bac-df94-451d-a96e-2a1f3fcbfde6.png)
+
+
